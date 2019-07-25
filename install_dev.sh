@@ -195,6 +195,7 @@ fi
                         | Settings/SSH ang GPG keys => new           |
                         ----------------------------------------------           
                         "
+                    cat .ssh/id_rsa.pub
                 elif [ $ouinonSSH = "n" ] || [ $ouinonSSH = "N" ]; then
                     echo "Ok, bye! "
                 else
