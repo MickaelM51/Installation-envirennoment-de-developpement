@@ -15,5 +15,6 @@ Ce script a pour but de déployer un environnement de développement rapidement 
   
   ## Utiliser le script
   
-Pour utiliser le script il vous suffit dans un terminal de lancer bash install_dev.shOu double cliquer directement sur le fichier install_dev.sh -> lancer dans un terminal
+Pour utiliser le script il vous suffit dans un terminal de lancer bash install_dev.sh 
+Ou double cliquer directement sur le fichier install_dev.sh -> lancer dans un terminal
   
