@@ -8,7 +8,8 @@ Ce script a pour but de déployer un environnement de développement rapidement 
   * apache2 
   * Mysql 
   * php/pdo php-gd php-xml 
-  * phpMyAdmin * Composer 
+  * phpMyAdmin 
+  * Composer 
   * acl pour Symfony 
   * git avec clef ssh 
   
