@@ -69,7 +69,7 @@ read ouinonPDO
 if [ $ouinonPDO = "y" ] || [ $ouinonPDO = "Y" ]; then
     sudo apt-get install php-mysql
     sudo apt-get install php-gd
-    sudo apt-get install php-xmln
+    sudo apt-get install php-xml
     sudo apt-get install zip unzip
     echo "
             ------------------------
